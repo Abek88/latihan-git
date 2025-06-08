@@ -1,3 +1,4 @@
 asdf1234gigit
 
 fitur 1
+fitur 2
