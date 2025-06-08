@@ -1,4 +1,4 @@
 asdf1234gigit
 
 fitur 1
-fitur 2
+fitur 2 tes git fetch >  git merge
